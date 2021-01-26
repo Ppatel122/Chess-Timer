@@ -1,2 +1,3 @@
 # Chess-Timer
-Chess Timer Web App
+Chess Timer Web App. Work in Progress.
+
